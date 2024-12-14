@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using the CSS `calc()` function. The `bug.css` file contains code that produces incorrect results due to an undefined parent element width, while `bugSolution.css` provides the correct solution.
