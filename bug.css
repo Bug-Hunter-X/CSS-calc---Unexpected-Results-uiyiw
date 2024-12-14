@@ -1,0 +1,1 @@
+The CSS property `calc()` can sometimes produce unexpected results if you don't fully understand its order of operations.  For instance, if you try to use `calc(100% - 10px)` to make an element take up the remaining space after subtracting 10px, but the parent element doesn't have a defined width, the calculation will fail because `100%` is undefined. 
